@@ -1,4 +1,5 @@
 # main function
 candence_parser.py
 
-user candence go parser 
+use candence go parser api to get the ast tree of the cadence file
+```
